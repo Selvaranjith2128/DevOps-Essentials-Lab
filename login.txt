@@ -1,0 +1,2 @@
+Login feature for DevOps Essentials Lab
+Username and password login functionality
