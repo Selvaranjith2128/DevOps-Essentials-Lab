@@ -1,0 +1,2 @@
+Dashboard feature for DevOps Essentials Lab
+Dashboard displays project information
